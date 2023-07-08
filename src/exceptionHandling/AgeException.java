@@ -11,5 +11,6 @@ public class AgeException {
     public static void main(String[] args){
        AgeException obj = new AgeException(); 
        obj.ageCheck(12);
+       System.out.println("123");
     }
 }
